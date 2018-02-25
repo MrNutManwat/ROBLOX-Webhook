@@ -1,0 +1,24 @@
+{
+  "name": "roblox-discord-js",
+  "version": "0.0.1",
+  "description": "ROBLOX webhook client for discord",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sentanos/roblox-js-server.git"
+  },
+  "author": "Tomatoe_s",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.0.0-dev",
+    
+  },
+  "bugs": {
+    "url": "https://github.com/sentanos/roblox-js-server/issues"
+  },
+  "homepage": "https://github.com/sentanos/roblox-js-server"
+}
